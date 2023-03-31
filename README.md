@@ -25,7 +25,7 @@ manipulasi DOM saya tahu dari materi yang ada di skilvul
 
 ## Screenshots no. 1
 
-![App Screenshot](<./img/Screenshot%20(99).png>)
+![App Screenshot](<./img/Screenshot%20(91).png>)
 
 ## Question
 
@@ -34,18 +34,17 @@ manipulasi DOM saya tahu dari materi yang ada di skilvul
 ## Answer
 
 let nilai = 0;
-
-      for (let i = 1; i <= 10; i++) {
-        nilai += 2;
-        document.write('Nilai pada pengulangan ke-' + i + ' = ' + nilai + '<br>');
-      }
+for (let i = 1; i <= 10; i++) {
+nilai += 2;
+document.write('Nilai pada pengulangan ke-' + i + ' = ' + nilai + '<br>');
+}
 
 penjelasan:
 pada codingan diatas akan menampilkan Nilai pada pengulngan nilai variable yang telah ditentukan dan penambahan nilai sebanyak 10 kali
 
 ## Screenshots no. 2
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(93).png>)
 
 ## Question
 
@@ -66,7 +65,7 @@ pada codingan diatas akan menampilkan Nilai, jika kita melakukan perulangan seba
 
 ## Screenshots no. 3
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(94).png>)
 
 ## Question
 
@@ -92,11 +91,11 @@ pada codingan diatas akan menampilkan pop up, saya menggunakan variable lawan da
 
 ## Screenshots no. 4
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(95).png>)
 
 ## Screenshots no. 4 setelah di cancel
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(96).png>)
 
 5. Buat sebuah program kuis.
 
@@ -118,12 +117,14 @@ pada codingan diatas akan menampilkan sebuah game kuis seperti pop up
 
 # Screenshots no. 5
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(97).png>)
 
 ## Screenshots no. 4 ketika memasukan jawaban benar
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(99).png>)
+
+![App Screenshot](<./img/Screenshot%20(98).png>)
 
 ## Screenshots no. 4 ketika memasukan jawaban salah
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](<./img/Screenshot%20(100).png>)
